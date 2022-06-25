@@ -10,4 +10,5 @@ public class Person {
     private double height;
     private double b;
 	private String a;
+	private String ppp;
 }
